@@ -13,7 +13,8 @@ public class HolaMundoGIT {
 
    public static void main(String[] args) {
        
-       System.out.println("HolaMundo");
+       System.out.println("Hola Mundo");
+       System.out.println("Hola"); 
     }
 
    
